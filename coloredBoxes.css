@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    width: auto;
+    height: auto;
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-color: red;
+    height: 55px;
+    color: Black;
+    
+}
+
+li{
+    text-decoration: none;
+    display: inline;
+    text-align: center;
+}
+
+section{
+    background-color: aqua;
+    width: 70%;
+    text-align: center;
+}
+
+.container{
+    background-color: green;
+    text-align: center;
+}
+
+.box{
+    background-color: beige;
+}
+
+
+
